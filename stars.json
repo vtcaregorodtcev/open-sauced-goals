@@ -1,27 +1,27 @@
 [
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 21884,
-    "open_issues_count": 1317,
-    "forks_count": 41916
+    "stargazers_count": 21896,
+    "open_issues_count": 1325,
+    "forks_count": 41943
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 337795,
-    "open_issues_count": 134,
-    "forks_count": 27606
+    "stargazers_count": 337881,
+    "open_issues_count": 139,
+    "forks_count": 27619
   },
   {
     "full_name": "tinkoff-ai/etna",
-    "stargazers_count": 269,
-    "open_issues_count": 37,
-    "forks_count": 22
+    "stargazers_count": 272,
+    "open_issues_count": 33,
+    "forks_count": 23
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 181750,
-    "open_issues_count": 36,
-    "forks_count": 22395
+    "stargazers_count": 182506,
+    "open_issues_count": 37,
+    "forks_count": 22452
   },
   {
     "full_name": "nin-jin/slides",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "aws/amazon-sagemaker-examples",
-    "stargazers_count": 6364,
-    "open_issues_count": 611,
-    "forks_count": 4765
+    "stargazers_count": 6376,
+    "open_issues_count": 605,
+    "forks_count": 4766
   },
   {
     "full_name": "yandexdataschool/nlp_course",
-    "stargazers_count": 7562,
+    "stargazers_count": 7568,
     "open_issues_count": 6,
-    "forks_count": 2110
+    "forks_count": 2116
   },
   {
     "full_name": "rolling-scopes-school/nodejs-aws-tasks",
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 1405,
+    "stargazers_count": 1422,
     "open_issues_count": 0,
-    "forks_count": 372
+    "forks_count": 377
   },
   {
     "full_name": "orchest/orchest",
-    "stargazers_count": 1708,
+    "stargazers_count": 1713,
     "open_issues_count": 85,
     "forks_count": 117
   },
   {
     "full_name": "ivan-bilan/The-NLP-Pandect",
-    "stargazers_count": 1635,
+    "stargazers_count": 1637,
     "open_issues_count": 0,
     "forks_count": 233
   },
@@ -69,17 +69,17 @@
     "full_name": "shankarpandala/lazypredict",
     "stargazers_count": 273,
     "open_issues_count": 34,
-    "forks_count": 40
+    "forks_count": 42
   },
   {
     "full_name": "werner-duvaud/muzero-general",
-    "stargazers_count": 1598,
-    "open_issues_count": 37,
-    "forks_count": 401
+    "stargazers_count": 1607,
+    "open_issues_count": 40,
+    "forks_count": 402
   },
   {
     "full_name": "andrew--r/frontend-case-studies",
-    "stargazers_count": 6319,
+    "stargazers_count": 6320,
     "open_issues_count": 27,
     "forks_count": 337
   },
@@ -91,69 +91,69 @@
   },
   {
     "full_name": "learntocloud/learn-to-cloud",
-    "stargazers_count": 2247,
+    "stargazers_count": 2259,
     "open_issues_count": 0,
-    "forks_count": 298
+    "forks_count": 300
   },
   {
     "full_name": "facebookresearch/AugLy",
-    "stargazers_count": 4176,
+    "stargazers_count": 4190,
     "open_issues_count": 12,
-    "forks_count": 215
+    "forks_count": 217
   },
   {
     "full_name": "google/gin-config",
-    "stargazers_count": 1409,
+    "stargazers_count": 1411,
     "open_issues_count": 41,
     "forks_count": 96
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 30558,
-    "open_issues_count": 148,
-    "forks_count": 3280
+    "stargazers_count": 30607,
+    "open_issues_count": 147,
+    "forks_count": 3284
   },
   {
     "full_name": "donnemartin/data-science-ipython-notebooks",
-    "stargazers_count": 22099,
+    "stargazers_count": 22115,
     "open_issues_count": 22,
-    "forks_count": 6894
+    "forks_count": 6896
   },
   {
     "full_name": "madd86/awesome-system-design",
-    "stargazers_count": 5024,
+    "stargazers_count": 5036,
     "open_issues_count": 2,
     "forks_count": 409
   },
   {
     "full_name": "puncsky/system-design-and-architecture",
-    "stargazers_count": 1388,
+    "stargazers_count": 1389,
     "open_issues_count": 22,
-    "forks_count": 339
+    "forks_count": 340
   },
   {
     "full_name": "IntelLabs/coach",
-    "stargazers_count": 2084,
+    "stargazers_count": 2085,
     "open_issues_count": 87,
-    "forks_count": 418
+    "forks_count": 419
   },
   {
     "full_name": "DLR-RM/stable-baselines3",
-    "stargazers_count": 2638,
-    "open_issues_count": 42,
-    "forks_count": 571
+    "stargazers_count": 2646,
+    "open_issues_count": 43,
+    "forks_count": 575
   },
   {
     "full_name": "ludwig-ai/ludwig",
-    "stargazers_count": 8022,
-    "open_issues_count": 175,
+    "stargazers_count": 8029,
+    "open_issues_count": 174,
     "forks_count": 958
   },
   {
     "full_name": "oleg-agapov/data-engineering-book",
     "stargazers_count": 670,
     "open_issues_count": 2,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "frontendfront/front-end-conferences",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "PatrickAlphaC/nft-mix",
-    "stargazers_count": 528,
-    "open_issues_count": 4,
-    "forks_count": 256
+    "stargazers_count": 531,
+    "open_issues_count": 5,
+    "forks_count": 262
   },
   {
     "full_name": "Azure/counterfit",
-    "stargazers_count": 475,
+    "stargazers_count": 476,
     "open_issues_count": 10,
     "forks_count": 68
   }
