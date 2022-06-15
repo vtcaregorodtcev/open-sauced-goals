@@ -1,43 +1,43 @@
 [
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 23500,
-    "open_issues_count": 237,
-    "forks_count": 45163
+    "stargazers_count": 23531,
+    "open_issues_count": 262,
+    "forks_count": 45260
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 347020,
-    "open_issues_count": 178,
-    "forks_count": 28756
+    "stargazers_count": 347401,
+    "open_issues_count": 177,
+    "forks_count": 28766
   },
   {
     "full_name": "tinkoff-ai/etna",
-    "stargazers_count": 495,
+    "stargazers_count": 498,
     "open_issues_count": 45,
     "forks_count": 43
   },
   {
     "full_name": "sindresorhus/awesome",
-    "stargazers_count": 204171,
-    "open_issues_count": 33,
-    "forks_count": 23570
+    "stargazers_count": 204814,
+    "open_issues_count": 32,
+    "forks_count": 23596
   },
   {
     "full_name": "nin-jin/slides",
-    "stargazers_count": 118,
+    "stargazers_count": 119,
     "open_issues_count": 0,
     "forks_count": 13
   },
   {
     "full_name": "aws/amazon-sagemaker-examples",
-    "stargazers_count": 6989,
-    "open_issues_count": 644,
-    "forks_count": 5267
+    "stargazers_count": 7002,
+    "open_issues_count": 652,
+    "forks_count": 5281
   },
   {
     "full_name": "yandexdataschool/nlp_course",
-    "stargazers_count": 7918,
+    "stargazers_count": 7922,
     "open_issues_count": 7,
     "forks_count": 2203
   },
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "alexeygrigorev/mlbookcamp-code",
-    "stargazers_count": 2167,
+    "stargazers_count": 2181,
     "open_issues_count": 0,
-    "forks_count": 579
+    "forks_count": 586
   },
   {
     "full_name": "orchest/orchest",
-    "stargazers_count": 3019,
-    "open_issues_count": 116,
-    "forks_count": 167
+    "stargazers_count": 3028,
+    "open_issues_count": 114,
+    "forks_count": 168
   },
   {
     "full_name": "ivan-bilan/The-NLP-Pandect",
-    "stargazers_count": 1742,
+    "stargazers_count": 1744,
     "open_issues_count": 0,
     "forks_count": 240
   },
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "werner-duvaud/muzero-general",
-    "stargazers_count": 1804,
+    "stargazers_count": 1808,
     "open_issues_count": 28,
-    "forks_count": 475
+    "forks_count": 476
   },
   {
     "full_name": "andrew--r/frontend-case-studies",
-    "stargazers_count": 6670,
+    "stargazers_count": 6672,
     "open_issues_count": 27,
     "forks_count": 384
   },
@@ -91,63 +91,63 @@
   },
   {
     "full_name": "learntocloud/learn-to-cloud",
-    "stargazers_count": 2737,
+    "stargazers_count": 2743,
     "open_issues_count": 6,
-    "forks_count": 417
+    "forks_count": 419
   },
   {
     "full_name": "facebookresearch/AugLy",
-    "stargazers_count": 4472,
-    "open_issues_count": 15,
+    "stargazers_count": 4476,
+    "open_issues_count": 14,
     "forks_count": 246
   },
   {
     "full_name": "google/gin-config",
-    "stargazers_count": 1538,
+    "stargazers_count": 1539,
     "open_issues_count": 39,
     "forks_count": 98
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 31286,
+    "stargazers_count": 31298,
     "open_issues_count": 147,
-    "forks_count": 3437
+    "forks_count": 3440
   },
   {
     "full_name": "donnemartin/data-science-ipython-notebooks",
-    "stargazers_count": 23182,
+    "stargazers_count": 23199,
     "open_issues_count": 23,
-    "forks_count": 7170
+    "forks_count": 7174
   },
   {
     "full_name": "madd86/awesome-system-design",
-    "stargazers_count": 5683,
+    "stargazers_count": 5693,
     "open_issues_count": 5,
-    "forks_count": 507
+    "forks_count": 509
   },
   {
     "full_name": "puncsky/system-design-and-architecture",
-    "stargazers_count": 1648,
+    "stargazers_count": 1653,
     "open_issues_count": 23,
-    "forks_count": 410
+    "forks_count": 411
   },
   {
     "full_name": "IntelLabs/coach",
     "stargazers_count": 2156,
     "open_issues_count": 89,
-    "forks_count": 428
+    "forks_count": 429
   },
   {
     "full_name": "DLR-RM/stable-baselines3",
-    "stargazers_count": 3617,
-    "open_issues_count": 43,
-    "forks_count": 817
+    "stargazers_count": 3630,
+    "open_issues_count": 45,
+    "forks_count": 819
   },
   {
     "full_name": "ludwig-ai/ludwig",
-    "stargazers_count": 8366,
-    "open_issues_count": 219,
-    "forks_count": 988
+    "stargazers_count": 8372,
+    "open_issues_count": 225,
+    "forks_count": 989
   },
   {
     "full_name": "oleg-agapov/data-engineering-book",
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "PatrickAlphaC/nft-mix",
-    "stargazers_count": 765,
+    "stargazers_count": 768,
     "open_issues_count": 9,
     "forks_count": 395
   },
